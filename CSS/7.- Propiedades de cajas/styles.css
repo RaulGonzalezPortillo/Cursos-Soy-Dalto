@@ -1,0 +1,17 @@
+h2 {
+    background-color: darkgray;
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    /*En orden: margen superior, derecho, inferior e izquierdo*/
+    margin: 30px, 20px, 15px, 10px;
+    border-radius: 1em;
+    /*En orden: tamaño, tipo y color*/
+    border: 3px solid gray;
+    /*En orden: Desplazamiento vertical, tamaño de desenfoque, borde y color*/
+    box-shadow: 2px 4px 10px 0 black;
+    text-shadow: 2px 2px 5px black;
+    color: white;
+    transform: rotate(-10deg);
+}

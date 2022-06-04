@@ -1,0 +1,17 @@
+/*Los siguientes selectores están ordenados por nivel jerárquico*/
+#color-green {
+    color:green;
+}
+
+.color-blue {
+    color:blue;
+}
+
+h1 {
+    color:red;
+}
+
+/*Este selector tiene nivel jerárquico muy bajo, pero el important tiene la mayor prioridad*/
+h2 {
+    color: gray !important;
+}

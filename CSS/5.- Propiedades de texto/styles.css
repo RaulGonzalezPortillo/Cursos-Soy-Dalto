@@ -1,0 +1,12 @@
+.contact-form {
+    width: 50vw;
+}
+
+.contact-form__h2 {
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    font-weight: normal;
+    font-stretch: condensed;
+    font-variant: small-caps;
+}

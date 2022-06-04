@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contact-form {
+    background-color: black;
+    width: 50vw;
+}
+
+.contact-form__h2 {
+    font-size: 5em;
+    color: white;
+}
